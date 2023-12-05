@@ -10,7 +10,10 @@
 - efg
 - hij
 
-1. love coding 
+1.  love monny $$$
 2. love mobile app dev
-3. love monny $$$
+3. love coding
 4. love games
+
+# lang
+
