@@ -28,4 +28,7 @@
 
 ## how can you learn coding with 10 hours
 - first 
-  
+  1. go to yutub nad start leearnig 
+  2. starte whatch the corses 
+  3. realise that is ronge way to learne codinge
+   
