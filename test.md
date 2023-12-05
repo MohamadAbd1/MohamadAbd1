@@ -25,4 +25,5 @@
 6. c#
 7. no
 8. hello
-9. 
+
+## how can you learn coding with 10 hours
