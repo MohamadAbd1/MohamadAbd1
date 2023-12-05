@@ -27,3 +27,5 @@
 8. hello
 
 ## how can you learn coding with 10 hours
+- first 
+  
