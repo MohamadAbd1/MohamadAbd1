@@ -17,3 +17,9 @@
 
 # lang
 
+1. darte
+2. java 
+3. html 
+4. css 
+5. js
+6. c#
